@@ -37,14 +37,14 @@ Tujuan di buat Aplikasi ini :
 
 Penjelasan struktur kode :
 
-Folder models : 
+## Folder models : 
 Berisi model/data object aplikasi.
 
 note_model.dart Digunakan untuk membuat struktur data catatan.
 
 Contoh data: id title content author
 
-Folder pages :
+## Folder pages :
 Berisi halaman utama aplikasi.
 
 home_page.dart Halaman utama untuk menampilkan semua catatan.
