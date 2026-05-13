@@ -1,4 +1,4 @@
-Note_app
+## Note_app
 
 A new Flutter project.
 
@@ -19,11 +19,11 @@ Pada halaman utama: Menampilkan daftar catatan Tombol tambah catatan (FloatingAc
 
 
 
-Halaman Ini di gunakan Untuk : 
+## Halaman Ini di gunakan Untuk : 
 
 Menulis judul catatan Menulis isi catatan Menyimpan data ke SQLite Tujuan Project
 
-Tujuan di buat Aplikasi ini : 
+## Tujuan di buat Aplikasi ini : 
 | Teknologi | Fungsi |
 |------------|------------------------------|
 | Flutter | Framework aplikasi |
@@ -35,7 +35,7 @@ Tujuan di buat Aplikasi ini :
 
 
 
-Penjelasan struktur kode :
+## Penjelasan struktur kode :
 
 ## Folder models : 
 Berisi model/data object aplikasi.
@@ -51,24 +51,25 @@ home_page.dart Halaman utama untuk menampilkan semua catatan.
 
 note_page.dart Halaman untuk menambah atau mengedit catatan.
 
-Folder services :
+## Folder services :
 Berisi logic backend atau service aplikasi. database_helper.dart
 
 Digunakan untuk: membuat database SQLite insert data update data delete data mengambil data
 
-Folder theme :
+## Folder theme :
 Berisi pengaturan tema aplikasi. app_theme.dart
 
 Digunakan untuk: Light Mode Dark Mode warna aplikasi style text
 
-Folder widgets :
+## Folder widgets :
 Berisi komponen widget yang digunakan ulang.
 
 confirm_dialog.dart Dialog konfirmasi hapus data.
 
 note_card.dart Widget card untuk menampilkan catatan seperti Google Keep.
 
-File main.dart
+## File main.dart
 File utama aplikasi Flutter.
 
-Fungsi: menjalankan aplikasi memanggil halaman pertama mengatur theme aplikasi
+## Fungsi: 
+menjalankan aplikasi memanggil halaman pertama mengatur theme aplikasi
