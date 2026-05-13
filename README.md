@@ -45,7 +45,7 @@ Menulis judul catatan Menulis isi catatan Menyimpan data ke SQLite Tujuan Projec
 | SQLite | Database lokal |
 | sqflite | Package SQLite Flutter |
 | path | Mengatur lokasi database |
-| path_provider | Mengambil folder penyimpanan |
+
 
 
 
