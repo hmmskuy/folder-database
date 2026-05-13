@@ -10,7 +10,7 @@ Aplikasi dibuat menggunakan Flutter dan database lokal SQLite melalui package sq
 
 Tampilan Aplikasi
 Halaman Home (Light Mode)
-Pada halaman utama: Menampilkan daftar catatan Tombol tambah catatan (FloatingActionButton) Tombol ganti tema Card catatan seperti Google Keep<img width="1918" height="1079" alt="Screenshot 2026-05-04 131227" src="https://github.com/user-attachments/assets/8ca84402-86bd-4122-820e-a65481f04321" />
+Pada halaman utama: Menampilkan daftar catatan Tombol tambah catatan (FloatingActionButton) Tombol ganti tema Card catatan seperti Google Keep 
 
 <img width="422" height="854" alt="Screenshot 2026-05-13 085236" src="https://github.com/user-attachments/assets/f7225a94-7e3a-49bd-91fd-084969439c7f" />
 
