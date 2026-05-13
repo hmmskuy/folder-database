@@ -1,3 +1,4 @@
+
 ## Note_app
 
 A new Flutter project.
@@ -11,6 +12,8 @@ Aplikasi dibuat menggunakan Flutter dan database lokal SQLite melalui package sq
 Tampilan Aplikasi
 Halaman Home (Light Mode)
 Pada halaman utama: Menampilkan daftar catatan Tombol tambah catatan (FloatingActionButton) Tombol ganti tema Card catatan seperti Google Keep 
+
+<img width="409" height="852" alt="Screenshot 2026-05-13 091344" src="https://github.com/user-attachments/assets/f6293506-c9ec-432c-8859-0ad6add351bb" />
 
 <img width="422" height="854" alt="Screenshot 2026-05-13 085236" src="https://github.com/user-attachments/assets/f7225a94-7e3a-49bd-91fd-084969439c7f" />
 
