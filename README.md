@@ -24,6 +24,7 @@ Halaman Ini di gunakan Untuk :
 Menulis judul catatan Menulis isi catatan Menyimpan data ke SQLite Tujuan Project
 
 Tujuan di buat Aplikasi ini : 
+
 Mempelajari Flutter Layout Memahami Stateful Widget Belajar navigasi antar halaman Memahami database lokal SQLite Belajar CRUD (Create, Read, Update, Delete) Menggunakan package Flutter
 Teknologi	Fungsi
 Flutter	Framework aplikasi
@@ -33,4 +34,3 @@ sqflite	Package SQLite Flutter
 path	Mengatur lokasi database
 path_provider	Mengambil folder penyimpanan
 Material Design	Desain UI aplikasi
-
