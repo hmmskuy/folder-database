@@ -33,3 +33,42 @@ Tujuan di buat Aplikasi ini :
 | path | Mengatur lokasi database |
 | path_provider | Mengambil folder penyimpanan |
 
+
+
+Penjelasan struktur kode :
+
+Folder models : 
+Berisi model/data object aplikasi.
+
+note_model.dart Digunakan untuk membuat struktur data catatan.
+
+Contoh data: id title content author
+
+Folder pages :
+Berisi halaman utama aplikasi.
+
+home_page.dart Halaman utama untuk menampilkan semua catatan.
+
+note_page.dart Halaman untuk menambah atau mengedit catatan.
+
+Folder services :
+Berisi logic backend atau service aplikasi. database_helper.dart
+
+Digunakan untuk: membuat database SQLite insert data update data delete data mengambil data
+
+Folder theme :
+Berisi pengaturan tema aplikasi. app_theme.dart
+
+Digunakan untuk: Light Mode Dark Mode warna aplikasi style text
+
+Folder widgets :
+Berisi komponen widget yang digunakan ulang.
+
+confirm_dialog.dart Dialog konfirmasi hapus data.
+
+note_card.dart Widget card untuk menampilkan catatan seperti Google Keep.
+
+File main.dart
+File utama aplikasi Flutter.
+
+Fungsi: menjalankan aplikasi memanggil halaman pertama mengatur theme aplikasi
