@@ -14,8 +14,14 @@ Halaman Home (Light Mode)
 Pada halaman utama: Menampilkan daftar catatan Tombol tambah catatan (FloatingActionButton) Tombol ganti tema Card catatan seperti Google Keep 
 
 <img width="409" height="852" alt="Screenshot 2026-05-13 091344" src="https://github.com/user-attachments/assets/f6293506-c9ec-432c-8859-0ad6add351bb" />
+## 
+Halaman Home (Dark Mode)
+Fitur: Background hitam Card biru Tema otomatis berubah sesuai tombol mode Halaman Tambah Catatan
 
 <img width="422" height="854" alt="Screenshot 2026-05-13 085236" src="https://github.com/user-attachments/assets/f7225a94-7e3a-49bd-91fd-084969439c7f" />
+
+## Halaman Home (Light Mode)
+Pada halaman utama: Menampilkan daftar catatan Tombol tambah catatan (FloatingActionButton) Tombol ganti tema Card catatan seperti Google Keep
 
 <img width="416" height="854" alt="Screenshot 2026-05-13 085857" src="https://github.com/user-attachments/assets/224420e5-9dea-4005-bfcc-0beddb154255" />
 
